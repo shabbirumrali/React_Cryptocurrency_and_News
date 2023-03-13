@@ -1,3 +1,4 @@
+
 :root{
     --text-primary:#000;
     --bgPrimary:#fff;
@@ -28,7 +29,7 @@ a:hover{
 }
 
 .main{
-    flex: 0.8;
+    flex: 1;
     width: 100%;
     
 }
@@ -353,7 +354,6 @@ width: 70%;
 }
 .search-crypto{
     margin: 20px auto 30px auto;
-    width: 250px;
 }
 .crypto-card-container{
     min-height: 65vh !important;
